@@ -1,17 +1,11 @@
 {
-  "generatedAt": "2026-09-12T20:22:59.103Z",
+  "generatedAt": "2026-09-13T03:39:53.467Z",
   "sections": {
     "iconic": [
       {
-        "domain": "91100000",
+        "domain": "911000000",
         "type": "Iconic",
         "reason": "911 — the US emergency number, impossible not to read as urgent.",
-        "status": "available"
-      },
-      {
-        "domain": "360000000",
-        "type": "Iconic",
-        "reason": "360 — a full circle in degrees, shorthand for a full turnaround or complete view.",
         "status": "available"
       },
       {
@@ -21,171 +15,192 @@
         "status": "available"
       },
       {
+        "domain": "91100000",
+        "type": "Iconic",
+        "reason": "911 — the US emergency number, impossible not to read as urgent.",
+        "status": "available"
+      },
+      {
         "domain": "000000360",
         "type": "Iconic",
         "reason": "360 — a full circle in degrees, shorthand for a full turnaround or complete view.",
         "status": "available"
       },
       {
-        "domain": "911000000",
+        "domain": "00000360",
         "type": "Iconic",
-        "reason": "911 — the US emergency number, impossible not to read as urgent.",
+        "reason": "360 — a full circle in degrees, shorthand for a full turnaround or complete view.",
         "status": "available"
       }
     ],
     "round": [
       {
-        "domain": "855470000",
+        "domain": "363000000",
+        "type": "Round",
+        "reason": "Ends in 6 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
+        "status": "available"
+      },
+      {
+        "domain": "375740000",
         "type": "Round",
         "reason": "Ends in 4 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       },
       {
-        "domain": "210636000",
+        "domain": "79300000",
         "type": "Round",
-        "reason": "Ends in 3 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
+        "reason": "Ends in 5 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       },
       {
-        "domain": "18079000",
+        "domain": "58000000",
         "type": "Round",
-        "reason": "Ends in 3 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
+        "reason": "Ends in 6 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       },
       {
-        "domain": "9407000",
+        "domain": "53508000",
         "type": "Round",
         "reason": "Ends in 3 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
-        "status": "available"
-      },
-      {
-        "domain": "696650000",
-        "type": "Round",
-        "reason": "Ends in 4 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       }
     ],
     "palindrome": [
       {
-        "domain": "7185817",
+        "domain": "49766794",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "6263626",
+        "domain": "6031306",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "87699678",
+        "domain": "4825284",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "2082802",
+        "domain": "176575671",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "876707678",
+        "domain": "075232570",
         "type": "Palindrome",
         "status": "available"
       }
     ],
     "date": [
       {
-        "domain": "03112041",
+        "domain": "10032053",
         "type": "Date",
-        "reason": "Reads as 03/11/2041 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 10/03/2053 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "06072073",
+        "domain": "15042034",
         "type": "Date",
-        "reason": "Reads as 06/07/2073 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 15/04/2034 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "03021984",
+        "domain": "18102029",
         "type": "Date",
-        "reason": "Reads as 03/02/1984 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 18/10/2029 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "05042065",
+        "domain": "24042050",
         "type": "Date",
-        "reason": "Reads as 05/04/2065 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 24/04/2050 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "24032034",
+        "domain": "09092072",
         "type": "Date",
-        "reason": "Reads as 24/03/2034 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 09/09/2072 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       }
     ],
     "angel": [
       {
-        "domain": "777222444",
+        "domain": "222333999",
         "type": "Angel",
-        "reason": "Built from angel numbers 777 (luck & spiritual awakening) + 222 (balance & harmony) + 444 (protection & stability) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 222 (balance & harmony) + 333 (growth & expansion) + 999 (completion & closure) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "777999555",
+        "domain": "333222555",
         "type": "Angel",
-        "reason": "Built from angel numbers 777 (luck & spiritual awakening) + 999 (completion & closure) + 555 (change on the way) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 333 (growth & expansion) + 222 (balance & harmony) + 555 (change on the way) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "777555666",
+        "domain": "999333777",
         "type": "Angel",
-        "reason": "Built from angel numbers 777 (luck & spiritual awakening) + 555 (change on the way) + 666 (realignment & focus) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 999 (completion & closure) + 333 (growth & expansion) + 777 (luck & spiritual awakening) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "555222999",
+        "domain": "555888444",
         "type": "Angel",
-        "reason": "Built from angel numbers 555 (change on the way) + 222 (balance & harmony) + 999 (completion & closure) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 555 (change on the way) + 888 (abundance & prosperity) + 444 (protection & stability) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "777222555",
+        "domain": "444999333",
         "type": "Angel",
-        "reason": "Built from angel numbers 777 (luck & spiritual awakening) + 222 (balance & harmony) + 555 (change on the way) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 444 (protection & stability) + 999 (completion & closure) + 333 (growth & expansion) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       }
     ],
     "binary": [
       {
-        "domain": "100001011",
+        "domain": "011000010",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "011101101",
+        "domain": "101100010",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "100001101",
+        "domain": "010101001",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "111010010",
+        "domain": "000001011",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "101001100",
+        "domain": "010100011",
         "type": "Binary",
         "status": "available"
       }
     ],
     "sequential": [
       {
-        "domain": "34333231",
+        "domain": "94939291",
+        "type": "Sequential",
+        "status": "available"
+      },
+      {
+        "domain": "87868584",
+        "type": "Sequential",
+        "status": "available"
+      },
+      {
+        "domain": "36373839",
+        "type": "Sequential",
+        "status": "available"
+      },
+      {
+        "domain": "18192021",
         "type": "Sequential",
         "status": "available"
       },
@@ -193,26 +208,16 @@
         "domain": "807978",
         "type": "Sequential",
         "status": "available"
-      },
-      {
-        "domain": "50494847",
-        "type": "Sequential",
-        "status": "available"
-      },
-      {
-        "domain": "79787776",
-        "type": "Sequential",
-        "status": "available"
-      },
-      {
-        "domain": "82838485",
-        "type": "Sequential",
-        "status": "available"
       }
     ],
     "triples": [
       {
-        "domain": "111115555",
+        "domain": "333332222",
+        "type": "Triples",
+        "status": "available"
+      },
+      {
+        "domain": "444447777",
         "type": "Triples",
         "status": "available"
       },
@@ -222,29 +227,24 @@
         "status": "available"
       },
       {
-        "domain": "222224444",
+        "domain": "333331111",
         "type": "Triples",
         "status": "available"
       },
       {
-        "domain": "222223333",
-        "type": "Triples",
-        "status": "available"
-      },
-      {
-        "domain": "333334444",
+        "domain": "555551111",
         "type": "Triples",
         "status": "available"
       }
     ],
     "pairs": [
       {
-        "domain": "11009988",
+        "domain": "22110099",
         "type": "Pairs",
         "status": "available"
       },
       {
-        "domain": "22110099",
+        "domain": "11009988",
         "type": "Pairs",
         "status": "available"
       }
@@ -2218,7 +2218,7 @@
           {
             "day": 13,
             "domain": "13092026",
-            "status": "available"
+            "status": "taken"
           },
           {
             "day": 14,

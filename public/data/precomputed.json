@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-26T03:58:39.725Z",
+  "generatedAt": "2026-09-26T11:03:05.658Z",
   "sections": {
     "iconic": [
       {
-        "domain": "0000042",
+        "domain": "000000360",
         "type": "Iconic",
-        "reason": "42 — \"the answer to life, the universe, and everything\" from The Hitchhiker's Guide to the Galaxy.",
+        "reason": "360 — a full circle in degrees, shorthand for a full turnaround or complete view.",
         "status": "available"
       },
       {
@@ -21,13 +21,13 @@
         "status": "available"
       },
       {
-        "domain": "911000000",
+        "domain": "0000042",
         "type": "Iconic",
-        "reason": "911 — the US emergency number, impossible not to read as urgent.",
+        "reason": "42 — \"the answer to life, the universe, and everything\" from The Hitchhiker's Guide to the Galaxy.",
         "status": "available"
       },
       {
-        "domain": "000000360",
+        "domain": "00000360",
         "type": "Iconic",
         "reason": "360 — a full circle in degrees, shorthand for a full turnaround or complete view.",
         "status": "available"
@@ -35,204 +35,204 @@
     ],
     "round": [
       {
-        "domain": "951000000",
-        "type": "Round",
-        "reason": "Ends in 6 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
-        "status": "available"
-      },
-      {
-        "domain": "48900000",
+        "domain": "88200000",
         "type": "Round",
         "reason": "Ends in 5 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       },
       {
-        "domain": "620160000",
+        "domain": "4480000",
         "type": "Round",
         "reason": "Ends in 4 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       },
       {
-        "domain": "6050000",
+        "domain": "154130000",
         "type": "Round",
         "reason": "Ends in 4 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       },
       {
-        "domain": "640000000",
+        "domain": "750000000",
         "type": "Round",
         "reason": "Ends in 7 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
+        "status": "available"
+      },
+      {
+        "domain": "746519000",
+        "type": "Round",
+        "reason": "Ends in 3 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       }
     ],
     "palindrome": [
       {
-        "domain": "92233229",
+        "domain": "43111134",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "16222261",
+        "domain": "796434697",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "69411496",
+        "domain": "801313108",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "7201027",
+        "domain": "632080236",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "2805082",
+        "domain": "047898740",
         "type": "Palindrome",
         "status": "available"
       }
     ],
     "date": [
       {
-        "domain": "11031995",
+        "domain": "07071991",
         "type": "Date",
-        "reason": "Reads as 11/03/1995 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 07/07/1991 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "04062051",
+        "domain": "07052077",
         "type": "Date",
-        "reason": "Reads as 04/06/2051 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 07/05/2077 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "17021993",
+        "domain": "18051970",
         "type": "Date",
-        "reason": "Reads as 17/02/1993 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 18/05/1970 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "19071989",
+        "domain": "21052097",
         "type": "Date",
-        "reason": "Reads as 19/07/1989 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 21/05/2097 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "18111974",
+        "domain": "09042099",
         "type": "Date",
-        "reason": "Reads as 18/11/1974 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 09/04/2099 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       }
     ],
     "angel": [
       {
-        "domain": "444999444",
+        "domain": "222777555",
         "type": "Angel",
-        "reason": "Built from angel numbers 444 (protection & stability) + 999 (completion & closure) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 222 (balance & harmony) + 777 (luck & spiritual awakening) + 555 (change on the way) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "111888666",
+        "domain": "333777666",
         "type": "Angel",
-        "reason": "Built from angel numbers 111 (new beginnings) + 888 (abundance & prosperity) + 666 (realignment & focus) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 333 (growth & expansion) + 777 (luck & spiritual awakening) + 666 (realignment & focus) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "333444666",
+        "domain": "555333444",
         "type": "Angel",
-        "reason": "Built from angel numbers 333 (growth & expansion) + 444 (protection & stability) + 666 (realignment & focus) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 555 (change on the way) + 333 (growth & expansion) + 444 (protection & stability) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "999222555",
+        "domain": "222111444",
         "type": "Angel",
-        "reason": "Built from angel numbers 999 (completion & closure) + 222 (balance & harmony) + 555 (change on the way) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 222 (balance & harmony) + 111 (new beginnings) + 444 (protection & stability) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "222777111",
+        "domain": "222444333",
         "type": "Angel",
-        "reason": "Built from angel numbers 222 (balance & harmony) + 777 (luck & spiritual awakening) + 111 (new beginnings) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 222 (balance & harmony) + 444 (protection & stability) + 333 (growth & expansion) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       }
     ],
     "binary": [
       {
-        "domain": "110001001",
+        "domain": "000011100",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "11010001",
+        "domain": "101100001",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "001011011",
+        "domain": "001110101",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "011111000",
+        "domain": "011100111",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "101111110",
+        "domain": "101010010",
         "type": "Binary",
         "status": "available"
       }
     ],
     "sequential": [
       {
-        "domain": "77767574",
+        "domain": "39404142",
         "type": "Sequential",
         "status": "available"
       },
       {
-        "domain": "54535251",
+        "domain": "57585960",
         "type": "Sequential",
         "status": "available"
       },
       {
-        "domain": "35363738",
+        "domain": "14131211",
         "type": "Sequential",
         "status": "available"
       },
       {
-        "domain": "42414039",
+        "domain": "56555453",
         "type": "Sequential",
         "status": "available"
       },
       {
-        "domain": "39383736",
+        "domain": "52515049",
         "type": "Sequential",
         "status": "available"
       }
     ],
     "triples": [
       {
-        "domain": "555551111",
+        "domain": "444443333",
         "type": "Triples",
         "status": "available"
       },
       {
-        "domain": "777771111",
+        "domain": "444449999",
         "type": "Triples",
         "status": "available"
       },
       {
-        "domain": "333332222",
-        "type": "Triples",
-        "status": "available"
-      },
-      {
-        "domain": "444442222",
+        "domain": "111116666",
         "type": "Triples",
         "status": "available"
       },
       {
         "domain": "333331111",
+        "type": "Triples",
+        "status": "available"
+      },
+      {
+        "domain": "999994444",
         "type": "Triples",
         "status": "available"
       }
@@ -2892,57 +2892,57 @@
           {
             "day": 21,
             "domain": "21012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 22,
             "domain": "22012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 23,
             "domain": "23012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 24,
             "domain": "24012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 25,
             "domain": "25012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 26,
             "domain": "26012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 27,
             "domain": "27012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 28,
             "domain": "28012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 29,
             "domain": "29012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 30,
             "domain": "30012027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 31,
             "domain": "31012027",
-            "status": "unknown"
+            "status": "available"
           }
         ]
       },
@@ -2953,142 +2953,142 @@
           {
             "day": 1,
             "domain": "01022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 2,
             "domain": "02022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 3,
             "domain": "03022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 4,
             "domain": "04022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 5,
             "domain": "05022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 6,
             "domain": "06022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 7,
             "domain": "07022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 8,
             "domain": "08022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 9,
             "domain": "09022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 10,
             "domain": "10022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 11,
             "domain": "11022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 12,
             "domain": "12022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 13,
             "domain": "13022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 14,
             "domain": "14022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 15,
             "domain": "15022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 16,
             "domain": "16022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 17,
             "domain": "17022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 18,
             "domain": "18022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 19,
             "domain": "19022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 20,
             "domain": "20022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 21,
             "domain": "21022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 22,
             "domain": "22022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 23,
             "domain": "23022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 24,
             "domain": "24022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 25,
             "domain": "25022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 26,
             "domain": "26022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 27,
             "domain": "27022027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 28,
             "domain": "28022027",
-            "status": "unknown"
+            "status": "available"
           }
         ]
       },
@@ -3099,157 +3099,157 @@
           {
             "day": 1,
             "domain": "01032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 2,
             "domain": "02032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 3,
             "domain": "03032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 4,
             "domain": "04032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 5,
             "domain": "05032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 6,
             "domain": "06032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 7,
             "domain": "07032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 8,
             "domain": "08032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 9,
             "domain": "09032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 10,
             "domain": "10032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 11,
             "domain": "11032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 12,
             "domain": "12032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 13,
             "domain": "13032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 14,
             "domain": "14032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 15,
             "domain": "15032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 16,
             "domain": "16032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 17,
             "domain": "17032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 18,
             "domain": "18032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 19,
             "domain": "19032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 20,
             "domain": "20032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 21,
             "domain": "21032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 22,
             "domain": "22032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 23,
             "domain": "23032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 24,
             "domain": "24032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 25,
             "domain": "25032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 26,
             "domain": "26032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 27,
             "domain": "27032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 28,
             "domain": "28032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 29,
             "domain": "29032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 30,
             "domain": "30032027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 31,
             "domain": "31032027",
-            "status": "unknown"
+            "status": "available"
           }
         ]
       },
@@ -3260,152 +3260,152 @@
           {
             "day": 1,
             "domain": "01042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 2,
             "domain": "02042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 3,
             "domain": "03042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 4,
             "domain": "04042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 5,
             "domain": "05042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 6,
             "domain": "06042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 7,
             "domain": "07042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 8,
             "domain": "08042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 9,
             "domain": "09042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 10,
             "domain": "10042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 11,
             "domain": "11042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 12,
             "domain": "12042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 13,
             "domain": "13042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 14,
             "domain": "14042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 15,
             "domain": "15042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 16,
             "domain": "16042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 17,
             "domain": "17042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 18,
             "domain": "18042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 19,
             "domain": "19042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 20,
             "domain": "20042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 21,
             "domain": "21042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 22,
             "domain": "22042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 23,
             "domain": "23042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 24,
             "domain": "24042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 25,
             "domain": "25042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 26,
             "domain": "26042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 27,
             "domain": "27042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 28,
             "domain": "28042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 29,
             "domain": "29042027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 30,
             "domain": "30042027",
-            "status": "unknown"
+            "status": "available"
           }
         ]
       },
@@ -3416,157 +3416,157 @@
           {
             "day": 1,
             "domain": "01052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 2,
             "domain": "02052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 3,
             "domain": "03052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 4,
             "domain": "04052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 5,
             "domain": "05052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 6,
             "domain": "06052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 7,
             "domain": "07052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 8,
             "domain": "08052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 9,
             "domain": "09052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 10,
             "domain": "10052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 11,
             "domain": "11052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 12,
             "domain": "12052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 13,
             "domain": "13052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 14,
             "domain": "14052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 15,
             "domain": "15052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 16,
             "domain": "16052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 17,
             "domain": "17052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 18,
             "domain": "18052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 19,
             "domain": "19052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 20,
             "domain": "20052027",
-            "status": "unknown"
+            "status": "taken"
           },
           {
             "day": 21,
             "domain": "21052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 22,
             "domain": "22052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 23,
             "domain": "23052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 24,
             "domain": "24052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 25,
             "domain": "25052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 26,
             "domain": "26052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 27,
             "domain": "27052027",
-            "status": "unknown"
+            "status": "taken"
           },
           {
             "day": 28,
             "domain": "28052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 29,
             "domain": "29052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 30,
             "domain": "30052027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 31,
             "domain": "31052027",
-            "status": "unknown"
+            "status": "available"
           }
         ]
       },
@@ -3577,152 +3577,152 @@
           {
             "day": 1,
             "domain": "01062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 2,
             "domain": "02062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 3,
             "domain": "03062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 4,
             "domain": "04062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 5,
             "domain": "05062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 6,
             "domain": "06062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 7,
             "domain": "07062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 8,
             "domain": "08062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 9,
             "domain": "09062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 10,
             "domain": "10062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 11,
             "domain": "11062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 12,
             "domain": "12062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 13,
             "domain": "13062027",
-            "status": "unknown"
+            "status": "taken"
           },
           {
             "day": 14,
             "domain": "14062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 15,
             "domain": "15062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 16,
             "domain": "16062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 17,
             "domain": "17062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 18,
             "domain": "18062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 19,
             "domain": "19062027",
-            "status": "unknown"
+            "status": "taken"
           },
           {
             "day": 20,
             "domain": "20062027",
-            "status": "unknown"
+            "status": "taken"
           },
           {
             "day": 21,
             "domain": "21062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 22,
             "domain": "22062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 23,
             "domain": "23062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 24,
             "domain": "24062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 25,
             "domain": "25062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 26,
             "domain": "26062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 27,
             "domain": "27062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 28,
             "domain": "28062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 29,
             "domain": "29062027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 30,
             "domain": "30062027",
-            "status": "unknown"
+            "status": "available"
           }
         ]
       },
@@ -3733,157 +3733,157 @@
           {
             "day": 1,
             "domain": "01072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 2,
             "domain": "02072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 3,
             "domain": "03072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 4,
             "domain": "04072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 5,
             "domain": "05072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 6,
             "domain": "06072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 7,
             "domain": "07072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 8,
             "domain": "08072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 9,
             "domain": "09072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 10,
             "domain": "10072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 11,
             "domain": "11072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 12,
             "domain": "12072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 13,
             "domain": "13072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 14,
             "domain": "14072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 15,
             "domain": "15072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 16,
             "domain": "16072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 17,
             "domain": "17072027",
-            "status": "unknown"
+            "status": "taken"
           },
           {
             "day": 18,
             "domain": "18072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 19,
             "domain": "19072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 20,
             "domain": "20072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 21,
             "domain": "21072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 22,
             "domain": "22072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 23,
             "domain": "23072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 24,
             "domain": "24072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 25,
             "domain": "25072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 26,
             "domain": "26072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 27,
             "domain": "27072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 28,
             "domain": "28072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 29,
             "domain": "29072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 30,
             "domain": "30072027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 31,
             "domain": "31072027",
-            "status": "unknown"
+            "status": "available"
           }
         ]
       },
@@ -3894,157 +3894,157 @@
           {
             "day": 1,
             "domain": "01082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 2,
             "domain": "02082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 3,
             "domain": "03082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 4,
             "domain": "04082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 5,
             "domain": "05082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 6,
             "domain": "06082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 7,
             "domain": "07082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 8,
             "domain": "08082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 9,
             "domain": "09082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 10,
             "domain": "10082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 11,
             "domain": "11082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 12,
             "domain": "12082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 13,
             "domain": "13082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 14,
             "domain": "14082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 15,
             "domain": "15082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 16,
             "domain": "16082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 17,
             "domain": "17082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 18,
             "domain": "18082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 19,
             "domain": "19082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 20,
             "domain": "20082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 21,
             "domain": "21082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 22,
             "domain": "22082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 23,
             "domain": "23082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 24,
             "domain": "24082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 25,
             "domain": "25082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 26,
             "domain": "26082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 27,
             "domain": "27082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 28,
             "domain": "28082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 29,
             "domain": "29082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 30,
             "domain": "30082027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 31,
             "domain": "31082027",
-            "status": "unknown"
+            "status": "available"
           }
         ]
       },
@@ -4055,152 +4055,152 @@
           {
             "day": 1,
             "domain": "01092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 2,
             "domain": "02092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 3,
             "domain": "03092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 4,
             "domain": "04092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 5,
             "domain": "05092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 6,
             "domain": "06092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 7,
             "domain": "07092027",
-            "status": "unknown"
+            "status": "taken"
           },
           {
             "day": 8,
             "domain": "08092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 9,
             "domain": "09092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 10,
             "domain": "10092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 11,
             "domain": "11092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 12,
             "domain": "12092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 13,
             "domain": "13092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 14,
             "domain": "14092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 15,
             "domain": "15092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 16,
             "domain": "16092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 17,
             "domain": "17092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 18,
             "domain": "18092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 19,
             "domain": "19092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 20,
             "domain": "20092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 21,
             "domain": "21092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 22,
             "domain": "22092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 23,
             "domain": "23092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 24,
             "domain": "24092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 25,
             "domain": "25092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 26,
             "domain": "26092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 27,
             "domain": "27092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 28,
             "domain": "28092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 29,
             "domain": "29092027",
-            "status": "unknown"
+            "status": "available"
           },
           {
             "day": 30,
             "domain": "30092027",
-            "status": "unknown"
+            "status": "available"
           }
         ]
       }

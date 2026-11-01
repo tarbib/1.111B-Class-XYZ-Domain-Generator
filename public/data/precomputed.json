@@ -1,9 +1,27 @@
 {
-  "generatedAt": "2026-10-31T21:12:43.278Z",
+  "generatedAt": "2026-11-01T04:51:00.693Z",
   "sections": {
     "iconic": [
       {
+        "domain": "911000000",
+        "type": "Iconic",
+        "reason": "911 — the US emergency number, impossible not to read as urgent.",
+        "status": "available"
+      },
+      {
+        "domain": "000000360",
+        "type": "Iconic",
+        "reason": "360 — a full circle in degrees, shorthand for a full turnaround or complete view.",
+        "status": "available"
+      },
+      {
         "domain": "00000360",
+        "type": "Iconic",
+        "reason": "360 — a full circle in degrees, shorthand for a full turnaround or complete view.",
+        "status": "available"
+      },
+      {
+        "domain": "360000000",
         "type": "Iconic",
         "reason": "360 — a full circle in degrees, shorthand for a full turnaround or complete view.",
         "status": "available"
@@ -13,226 +31,208 @@
         "type": "Iconic",
         "reason": "911 — the US emergency number, impossible not to read as urgent.",
         "status": "available"
-      },
-      {
-        "domain": "0000042",
-        "type": "Iconic",
-        "reason": "42 — \"the answer to life, the universe, and everything\" from The Hitchhiker's Guide to the Galaxy.",
-        "status": "available"
-      },
-      {
-        "domain": "911000000",
-        "type": "Iconic",
-        "reason": "911 — the US emergency number, impossible not to read as urgent.",
-        "status": "available"
-      },
-      {
-        "domain": "360000000",
-        "type": "Iconic",
-        "reason": "360 — a full circle in degrees, shorthand for a full turnaround or complete view.",
-        "status": "available"
       }
     ],
     "round": [
       {
-        "domain": "89000000",
+        "domain": "455000000",
         "type": "Round",
         "reason": "Ends in 6 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       },
       {
-        "domain": "58000000",
-        "type": "Round",
-        "reason": "Ends in 6 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
-        "status": "available"
-      },
-      {
-        "domain": "39640000",
-        "type": "Round",
-        "reason": "Ends in 4 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
-        "status": "available"
-      },
-      {
-        "domain": "7414000",
+        "domain": "2065000",
         "type": "Round",
         "reason": "Ends in 3 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       },
       {
-        "domain": "677400000",
+        "domain": "470000000",
+        "type": "Round",
+        "reason": "Ends in 7 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
+        "status": "available"
+      },
+      {
+        "domain": "487500000",
         "type": "Round",
         "reason": "Ends in 5 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
+        "status": "available"
+      },
+      {
+        "domain": "9830000",
+        "type": "Round",
+        "reason": "Ends in 4 zeros — reads like a clean, round milestone number. Easy to say, easy to remember, \"big number\" branding.",
         "status": "available"
       }
     ],
     "palindrome": [
       {
-        "domain": "725727527",
+        "domain": "57199175",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "292363292",
+        "domain": "59622695",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "860060068",
+        "domain": "3517153",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "741909147",
+        "domain": "60733706",
         "type": "Palindrome",
         "status": "available"
       },
       {
-        "domain": "7972797",
+        "domain": "96622669",
         "type": "Palindrome",
         "status": "available"
       }
     ],
     "date": [
       {
-        "domain": "16122003",
+        "domain": "30042036",
         "type": "Date",
-        "reason": "Reads as 16/12/2003 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 30/04/2036 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "01112000",
+        "domain": "28091970",
         "type": "Date",
-        "reason": "Reads as 01/11/2000 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 28/09/1970 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "15062070",
+        "domain": "23022049",
         "type": "Date",
-        "reason": "Reads as 15/06/2070 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 23/02/2049 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "12072045",
+        "domain": "30052068",
         "type": "Date",
-        "reason": "Reads as 12/07/2045 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 30/05/2068 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       },
       {
-        "domain": "23112062",
+        "domain": "04052011",
         "type": "Date",
-        "reason": "Reads as 23/11/2062 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
+        "reason": "Reads as 04/05/2011 — a real calendar date, great for birthdays, anniversaries or founding-date branding.",
         "status": "available"
       }
     ],
     "angel": [
       {
-        "domain": "777333666",
+        "domain": "777555222",
         "type": "Angel",
-        "reason": "Built from angel numbers 777 (luck & spiritual awakening) + 333 (growth & expansion) + 666 (realignment & focus) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 777 (luck & spiritual awakening) + 555 (change on the way) + 222 (balance & harmony) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "777666111",
+        "domain": "888777111",
         "type": "Angel",
-        "reason": "Built from angel numbers 777 (luck & spiritual awakening) + 666 (realignment & focus) + 111 (new beginnings) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 888 (abundance & prosperity) + 777 (luck & spiritual awakening) + 111 (new beginnings) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "777222999",
+        "domain": "111999222",
         "type": "Angel",
-        "reason": "Built from angel numbers 777 (luck & spiritual awakening) + 222 (balance & harmony) + 999 (completion & closure) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 111 (new beginnings) + 999 (completion & closure) + 222 (balance & harmony) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "333777444",
+        "domain": "222999888",
         "type": "Angel",
-        "reason": "Built from angel numbers 333 (growth & expansion) + 777 (luck & spiritual awakening) + 444 (protection & stability) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 222 (balance & harmony) + 999 (completion & closure) + 888 (abundance & prosperity) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       },
       {
-        "domain": "111555444",
+        "domain": "333222777",
         "type": "Angel",
-        "reason": "Built from angel numbers 111 (new beginnings) + 555 (change on the way) + 444 (protection & stability) — recognized numerology sequences. Popular in spiritual/wellness branding.",
+        "reason": "Built from angel numbers 333 (growth & expansion) + 222 (balance & harmony) + 777 (luck & spiritual awakening) — recognized numerology sequences. Popular in spiritual/wellness branding.",
         "status": "available"
       }
     ],
     "binary": [
       {
-        "domain": "110001100",
+        "domain": "001000110",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "100100010",
+        "domain": "011010010",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "001110111",
+        "domain": "101000100",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "011110010",
+        "domain": "111111010",
         "type": "Binary",
         "status": "available"
       },
       {
-        "domain": "000111011",
+        "domain": "011000011",
         "type": "Binary",
         "status": "available"
       }
     ],
     "sequential": [
       {
-        "domain": "55545352",
+        "domain": "46454443",
         "type": "Sequential",
         "status": "available"
       },
       {
-        "domain": "99100101",
+        "domain": "92919089",
         "type": "Sequential",
         "status": "available"
       },
       {
-        "domain": "57565554",
+        "domain": "69707172",
         "type": "Sequential",
         "status": "available"
       },
       {
-        "domain": "75747372",
+        "domain": "59585756",
         "type": "Sequential",
         "status": "available"
       },
       {
-        "domain": "44454647",
+        "domain": "62616059",
         "type": "Sequential",
         "status": "available"
       }
     ],
     "triples": [
       {
-        "domain": "888884444",
-        "type": "Triples",
-        "status": "available"
-      },
-      {
-        "domain": "777771111",
-        "type": "Triples",
-        "status": "available"
-      },
-      {
-        "domain": "111116666",
-        "type": "Triples",
-        "status": "available"
-      },
-      {
-        "domain": "888883333",
+        "domain": "444448888",
         "type": "Triples",
         "status": "available"
       },
       {
         "domain": "222224444",
+        "type": "Triples",
+        "status": "available"
+      },
+      {
+        "domain": "777773333",
+        "type": "Triples",
+        "status": "available"
+      },
+      {
+        "domain": "333332222",
+        "type": "Triples",
+        "status": "available"
+      },
+      {
+        "domain": "6666444",
         "type": "Triples",
         "status": "available"
       }
@@ -254,167 +254,6 @@
   },
   "calendar": {
     "months": [
-      {
-        "year": 2025,
-        "month": 10,
-        "days": [
-          {
-            "day": 1,
-            "domain": "01102025",
-            "status": "taken"
-          },
-          {
-            "day": 2,
-            "domain": "02102025",
-            "status": "available"
-          },
-          {
-            "day": 3,
-            "domain": "03102025",
-            "status": "taken"
-          },
-          {
-            "day": 4,
-            "domain": "04102025",
-            "status": "taken"
-          },
-          {
-            "day": 5,
-            "domain": "05102025",
-            "status": "taken"
-          },
-          {
-            "day": 6,
-            "domain": "06102025",
-            "status": "taken"
-          },
-          {
-            "day": 7,
-            "domain": "07102025",
-            "status": "taken"
-          },
-          {
-            "day": 8,
-            "domain": "08102025",
-            "status": "available"
-          },
-          {
-            "day": 9,
-            "domain": "09102025",
-            "status": "taken"
-          },
-          {
-            "day": 10,
-            "domain": "10102025",
-            "status": "available"
-          },
-          {
-            "day": 11,
-            "domain": "11102025",
-            "status": "available"
-          },
-          {
-            "day": 12,
-            "domain": "12102025",
-            "status": "available"
-          },
-          {
-            "day": 13,
-            "domain": "13102025",
-            "status": "available"
-          },
-          {
-            "day": 14,
-            "domain": "14102025",
-            "status": "available"
-          },
-          {
-            "day": 15,
-            "domain": "15102025",
-            "status": "available"
-          },
-          {
-            "day": 16,
-            "domain": "16102025",
-            "status": "available"
-          },
-          {
-            "day": 17,
-            "domain": "17102025",
-            "status": "available"
-          },
-          {
-            "day": 18,
-            "domain": "18102025",
-            "status": "available"
-          },
-          {
-            "day": 19,
-            "domain": "19102025",
-            "status": "available"
-          },
-          {
-            "day": 20,
-            "domain": "20102025",
-            "status": "available"
-          },
-          {
-            "day": 21,
-            "domain": "21102025",
-            "status": "available"
-          },
-          {
-            "day": 22,
-            "domain": "22102025",
-            "status": "available"
-          },
-          {
-            "day": 23,
-            "domain": "23102025",
-            "status": "available"
-          },
-          {
-            "day": 24,
-            "domain": "24102025",
-            "status": "available"
-          },
-          {
-            "day": 25,
-            "domain": "25102025",
-            "status": "taken"
-          },
-          {
-            "day": 26,
-            "domain": "26102025",
-            "status": "available"
-          },
-          {
-            "day": 27,
-            "domain": "27102025",
-            "status": "taken"
-          },
-          {
-            "day": 28,
-            "domain": "28102025",
-            "status": "available"
-          },
-          {
-            "day": 29,
-            "domain": "29102025",
-            "status": "available"
-          },
-          {
-            "day": 30,
-            "domain": "30102025",
-            "status": "available"
-          },
-          {
-            "day": 31,
-            "domain": "31102025",
-            "status": "taken"
-          }
-        ]
-      },
       {
         "year": 2025,
         "month": 11,
@@ -4205,6 +4044,162 @@
           {
             "day": 31,
             "domain": "31102027",
+            "status": "available"
+          }
+        ]
+      },
+      {
+        "year": 2027,
+        "month": 11,
+        "days": [
+          {
+            "day": 1,
+            "domain": "01112027",
+            "status": "available"
+          },
+          {
+            "day": 2,
+            "domain": "02112027",
+            "status": "available"
+          },
+          {
+            "day": 3,
+            "domain": "03112027",
+            "status": "available"
+          },
+          {
+            "day": 4,
+            "domain": "04112027",
+            "status": "available"
+          },
+          {
+            "day": 5,
+            "domain": "05112027",
+            "status": "available"
+          },
+          {
+            "day": 6,
+            "domain": "06112027",
+            "status": "available"
+          },
+          {
+            "day": 7,
+            "domain": "07112027",
+            "status": "available"
+          },
+          {
+            "day": 8,
+            "domain": "08112027",
+            "status": "available"
+          },
+          {
+            "day": 9,
+            "domain": "09112027",
+            "status": "available"
+          },
+          {
+            "day": 10,
+            "domain": "10112027",
+            "status": "available"
+          },
+          {
+            "day": 11,
+            "domain": "11112027",
+            "status": "available"
+          },
+          {
+            "day": 12,
+            "domain": "12112027",
+            "status": "available"
+          },
+          {
+            "day": 13,
+            "domain": "13112027",
+            "status": "available"
+          },
+          {
+            "day": 14,
+            "domain": "14112027",
+            "status": "available"
+          },
+          {
+            "day": 15,
+            "domain": "15112027",
+            "status": "available"
+          },
+          {
+            "day": 16,
+            "domain": "16112027",
+            "status": "available"
+          },
+          {
+            "day": 17,
+            "domain": "17112027",
+            "status": "available"
+          },
+          {
+            "day": 18,
+            "domain": "18112027",
+            "status": "available"
+          },
+          {
+            "day": 19,
+            "domain": "19112027",
+            "status": "available"
+          },
+          {
+            "day": 20,
+            "domain": "20112027",
+            "status": "available"
+          },
+          {
+            "day": 21,
+            "domain": "21112027",
+            "status": "available"
+          },
+          {
+            "day": 22,
+            "domain": "22112027",
+            "status": "available"
+          },
+          {
+            "day": 23,
+            "domain": "23112027",
+            "status": "available"
+          },
+          {
+            "day": 24,
+            "domain": "24112027",
+            "status": "available"
+          },
+          {
+            "day": 25,
+            "domain": "25112027",
+            "status": "available"
+          },
+          {
+            "day": 26,
+            "domain": "26112027",
+            "status": "available"
+          },
+          {
+            "day": 27,
+            "domain": "27112027",
+            "status": "available"
+          },
+          {
+            "day": 28,
+            "domain": "28112027",
+            "status": "available"
+          },
+          {
+            "day": 29,
+            "domain": "29112027",
+            "status": "available"
+          },
+          {
+            "day": 30,
+            "domain": "30112027",
             "status": "available"
           }
         ]
